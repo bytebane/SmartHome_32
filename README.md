@@ -5,7 +5,7 @@
 - ESP32
 - Arduino/C++
 
-## [ElegantOTA](https://github.com/ayushsharma82/ElegantOTA.git) was used for OTA updates, to include the required libraries, follow these steps:
+## [AsyncElegantOTA](https://github.com/ayushsharma82/AsyncElegantOTA) was used for OTA updates, to include the required libraries, follow these steps:
 
   1. In _Arduino IDE_, go to __Sketch > Include Library > Manage Libraries…__ Search for “_AsyncElegantOTA_” and install it.
   2. To install the _AsyncTCP_ and the _ESPAsyncWebServer_ libraries. Click the links below to download the libraries, then go to Sketch > Include Library > Add .zip Library  and select the downloaded files:
