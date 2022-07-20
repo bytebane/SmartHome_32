@@ -1,4 +1,4 @@
-# Filati_32
+# SmartHome_32
 
 ## SmartHome Starter-Kit
 
