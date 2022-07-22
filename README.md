@@ -28,3 +28,6 @@ Open your browser and go to __http://<ESP32_IPAddress>/update__, to Update OTA.
 ### NOTE: -- Using Solid State Relay(4Channel) active-low, where input HIGH=OFF and LOW=ON
 
 Add Manual Switch -- With normal 5v Relay, the simplest way to add manual switch would be to add a three-way switch, connect one end to NO and the other end to NC terminal of the relay. This way all the appliances can be manually controlled even in case of any errors, short-circuits or power failures in the Microcontroller or relay.
+
+
+## [LICENSE](LICENSE)
